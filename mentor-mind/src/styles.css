@@ -1,0 +1,22 @@
+/* src/styles.css */
+.app-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .content {
+    margin: 20px 0;
+  }
+  
+  .footer {
+    margin-top: 20px;
+    color: #666;
+  }
+  
