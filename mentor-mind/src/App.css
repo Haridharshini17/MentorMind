@@ -1,0 +1,32 @@
+.app-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .login-status {
+    margin-bottom: 20px;
+  }
+  
+  .toggle-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    display: inline-block;
+  }
+  
+  .toggle-container.dark {
+    background-color: #333;
+    color: white;
+  }
+  
+  .toggle-container.light {
+    background-color: #fff;
+    color: black;
+  }
+  
