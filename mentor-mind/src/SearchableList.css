@@ -1,0 +1,41 @@
+.searchable-list {
+    width: 400px;
+    margin: 50px auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  select {
+    padding: 8px;
+    margin: 10px 5px;
+  }
+  
+  .sort-btn {
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  .item-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .item-list li {
+    padding: 8px;
+    margin-bottom: 5px;
+    background-color: #f4f4f4;
+    border-radius: 4px;
+  }
+  
+  .category {
+    color: #888;
+    font-size: 0.9em;
+  }
+  
